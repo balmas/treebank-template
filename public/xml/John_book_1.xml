@@ -215,7 +215,7 @@
       <word id="8" form="ἐξουσίαν" lemma="ἐξουσία" postag="n-s---fa-" relation="OBJ" head="6"/>
       <word id="9" form="τέκνα" lemma="τέκνον" postag="n-p---na-" relation="PNOM" head="11"/>
       <word id="10" form="θεοῦ" lemma="θεός" postag="n-s---mg-" relation="ATR" head="9"/>
-      <word id="11" form="γενέσθαι" lemma="γίγνομαι" postag="v--anm---" relation="ADV" head="8"/>
+      <word id="11" form="γενέσθαι" lemma="γίγνομαι" postag="v--anm---" relation="ATR" head="8"/>
       <word id="12" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
       <word id="13" form="τοῖς" lemma="ὁ" postag="l-p---md-" relation="ATR" head="7"/>
       <word id="14" form="πιστεύουσιν" lemma="πιστεύω" postag="v-pppamd-" relation="ATR" head="7"/>
@@ -267,7 +267,7 @@
       <word id="20" form="παρὰ" lemma="παρά" postag="r--------" relation="AuxP" head="19"/>
       <word id="21" form="πατρός" lemma="πατήρ" postag="n-s---mg-" relation="ADV" head="20"/>
       <word id="22" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="23" form="πλήρης" lemma="πλήρης" postag="a-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="As a nominative, it must modify λόγος" include="" multiword="" notes="" head="3"/>
+      <word id="23" form="πλήρης" lemma="πλήρης" postag="a-s---mn-" relation="ATR"  head="3"/>
       <word id="24" form="χάριτος" lemma="χάρις" postag="n-s---fg-" relation="ADV_CO" head="25"/>
       <word id="25" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="23"/>
       <word id="26" form="ἀληθείας" lemma="ἀλήθεια" postag="n-s---fg-" relation="ADV_CO" head="25"/>
@@ -275,31 +275,31 @@
       <word id="28" insertion_id="0027e" artificial="elliptic" relation="ADV" lemma="θεάομαι" postag="v1paie---" form="ἐθεασάμεθα" head="18"/>
    </sentence>
    <sentence id="14" document_id="" subdoc="John 1.15" span="">
-      <word id="1" form="Ἰωάνης" lemma="Ἰωάνης" postag="n-s---mn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="5"/>
-      <word id="2" form="μαρτυρεῖ" lemma="μαρτυρέω" postag="v3spia---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="5"/>
-      <word id="3" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="2"/>
-      <word id="4" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="3"/>
-      <word id="5" form="καὶ" lemma="καί" postag="c--------" relation="COORD" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="0"/>
-      <word id="6" form="κέκραγεν" lemma="κράζω" postag="v3sria---" relation="PRED_CO" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="5"/>
-      <word id="7" form="λέγων" lemma="λέγω3" postag="v-sppamn-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="6"/>
-      <word id="8" form="—" lemma="—" postag="u--------" relation="AuxG" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="0"/>
-      <word id="9" form="οὗτος" lemma="οὗτος" postag="p-s---mn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="10"/>
-      <word id="10" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="0"/>
-      <word id="11" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="12"/>
-      <word id="12" form="εἰπών" lemma="εἶπον" postag="v-sapamn-" relation="PNOM" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="10"/>
-      <word id="13" form="—" lemma="—" postag="u--------" relation="AuxG" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="0"/>
-      <word id="14" form="Ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="17"/>
-      <word id="15" form="ὀπίσω" lemma="ὀπίσω" postag="d--------" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="17"/>
-      <word id="16" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="15"/>
-      <word id="17" form="ἐρχόμενος" lemma="ἔρχομαι" postag="v-sppemn-" relation="SBJ" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="20"/>
-      <word id="18" form="ἔμπροσθέν" lemma="ἔμπροσθεν" postag="d--------" relation="PNOM" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="20"/>
-      <word id="19" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="18"/>
-      <word id="20" form="γέγονεν" lemma="γίγνομαι" postag="v3sria---" relation="PRED" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="0"/>
+      <word id="1" form="Ἰωάνης" lemma="Ἰωάνης" postag="n-s---mn-" relation="SBJ" head="5"/>
+      <word id="2" form="μαρτυρεῖ" lemma="μαρτυρέω" postag="v3spia---" relation="PRED_CO" head="5"/>
+      <word id="3" form="περὶ" lemma="περί" postag="r--------" relation="AuxP" head="2"/>
+      <word id="4" form="αὐτοῦ" lemma="αὐτός" postag="p-s---mg-" relation="ADV" head="3"/>
+      <word id="5" form="καὶ" lemma="καί" postag="c--------" relation="COORD" head="0"/>
+      <word id="6" form="κέκραγεν" lemma="κράζω" postag="v3sria---" relation="PRED_CO" head="5"/>
+      <word id="7" form="λέγων" lemma="λέγω3" postag="v-sppamn-" relation="ADV" head="6"/>
+      <word id="8" form="—" lemma="—" postag="u--------" relation="AuxG" head="0"/>
+      <word id="9" form="οὗτος" lemma="οὗτος" postag="p-s---mn-" relation="PNOM" head="10"/>
+      <word id="10" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="PRED" head="0"/>
+      <word id="11" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="12"/>
+      <word id="12" form="εἰπών" lemma="εἶπον" postag="v-sapamn-" relation="SBJ" head="10"/>
+      <word id="13" form="—" lemma="—" postag="u--------" relation="AuxG" head="0"/>
+      <word id="14" form="Ὁ" lemma="ὁ" postag="l-s---mn-" relation="ATR" head="17"/>
+      <word id="15" form="ὀπίσω" lemma="ὀπίσω" postag="d--------" relation="ADV" head="17"/>
+      <word id="16" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="ADV" head="15"/>
+      <word id="17" form="ἐρχόμενος" lemma="ἔρχομαι" postag="v-sppemn-" relation="SBJ" head="20"/>
+      <word id="18" form="ἔμπροσθέν" lemma="ἔμπροσθεν" postag="d--------" relation="PNOM" head="20"/>
+      <word id="19" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="ADV" head="18"/>
+      <word id="20" form="γέγονεν" lemma="γίγνομαι" postag="v3sria---" relation="PRED" head="0"/>
       <word id="21" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
-      <word id="22" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="20"/>
-      <word id="23" form="πρῶτός" lemma="πρότερος" postag="a-s---mn-" relation="PNOM" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="25"/>
-      <word id="24" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="23"/>
-      <word id="25" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="ADV" gloss="" alternateGloss="" semanticRole="" include="" multiword="" notes="" head="22"/>
+      <word id="22" form="ὅτι" lemma="ὅτι2" postag="c--------" relation="AuxC" head="20"/>
+      <word id="23" form="πρῶτός" lemma="πρότερος" postag="a-s---mn-" relation="PNOM" head="25"/>
+      <word id="24" form="μου" lemma="ἐγώ" postag="p1s---mg-" relation="ADV" gloss="" head="23"/>
+      <word id="25" form="ἦν" lemma="εἰμί" postag="v3siia---" relation="ADV" head="22"/>
       <word id="26" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
    <sentence id="15" document_id="" subdoc="John 1.16" span="">

@@ -729,7 +729,7 @@
       <word id="13" ref="798683" form="οὗτοί" lemma="οὗτος" postag="p-p---mn-" relation="SBJ" head="14"/>
       <word id="14" ref="798684" form="φασιν" lemma="φημί" postag="v3ppia---" relation="ADV" head="12"/>
       <word id="15" ref="798685" form="," lemma="," postag="u--------" relation="AuxX" head="0"/>
-      <word id="16" ref="798686" form="ἱκέτευον" lemma="ἱκετεύω" postag="v3piia---" relation="ADV_CO" head="17"/>
+      <word id="16" ref="798686" form="ἱκέτευον" lemma="ἱκετεύω" postag="v1siia---" relation="ADV_CO" head="17"/>
       <word id="17" ref="798687" form="δὲ" lemma="δέ" postag="c--------" relation="COORD" head="5"/>
       <word id="18" ref="798688" form="τὸν" lemma="ὁ" postag="l-s---ma-" relation="ATR" head="19"/>
       <word id="19" ref="798689" form="πατέρα" lemma="πατήρ" postag="n-s---ma-" relation="OBJ" head="16"/>

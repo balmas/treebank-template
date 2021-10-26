@@ -383,6 +383,22 @@
             }
           ]
         },
+         {
+          "path": "301_Andocides_master_text",
+          "author": "GREK301",
+          "work": "301_Andocides_master_text",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-81",
+              "path": "301_Andocides_master_text",
+              "xml": "301_Andocides_master_text.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 81 }
+            }
+          ]
+        },
         {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",

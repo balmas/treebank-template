@@ -394,7 +394,7 @@
               "path": "301_Andocides_master_text",
               "xml": "301_Andocides_master_text.xml",
               "link": "https://www.example.com",
-              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "notes": "Selections frmo Andocides 1, On the Mysteries",
               "chunks": { "start": 1, "end": 81 }
             }
           ]

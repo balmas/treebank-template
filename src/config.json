@@ -12,7 +12,11 @@
       "text": "The Treebank Template is maintained by the Perseids Project. See the [getting started instructions](/instructions/getting-started/). Or visit [our homepage](https://www.perseids.org) to learn more."
     },
     
-         {
+         
+    {
+      "title": "Student Trees",
+      "publications": [
+        {
           "path": "Plato_Crito_Travis_Kahl",
           "author": "Plato",
           "work": "Crito",
@@ -25,9 +29,14 @@
               "link": "https://www.example.com",
               "notes": "Treebank by Travis Kahl",
               "chunks": { "start": 1, "end": 276 }
-            }
-          ]
-        },
+         }      
+      ]
+    }
+    
+  ]
+
+   }
+,
     {
       "title": "Unit 1",
       "publications": [

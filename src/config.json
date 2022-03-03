@@ -384,6 +384,23 @@
           ]
         },
          {
+          "path": "Plato_Crito_Travis_Kahl",
+          "author": "Plato",
+          "work": "Crito",
+          "editors": "Travis Khl",
+          "sections": [
+            {
+              "locus": "1-276",
+              "path": "Plato_Crito_Travis_Kahl",
+              "xml": "Plato_Crito_Travis_Kahl.xml",
+              "link": "https://www.example.com",
+              "notes": "Treebank by Travis Kahl",
+              "chunks": { "start": 1, "end": 276 }
+            }
+          ]
+        },
+        
+         {
           "path": "301_Andocides_master_text",
           "author": "GREK301",
           "work": "301_Andocides_master_text",
@@ -399,26 +416,7 @@
             }
           ]
         },
-        
-    {
-      "title": "Unit 1",
-      "publications": [
-        {
-          "path": "Plato_Crito_Travis_Kahl",
-          "author": "Plato",
-          "work": "Crito",
-          "editors": "Travis Kahl",
-          "sections": [
-            {
-              "locus": "1-276",
-              "path": "Plato_Crito_Travis_Kahl",
-              "xml": "Plato_Crito_Travis_Kahl.xml",
-              "link": "https://www.example.com",
-              "notes": "Treed by Travis Kahl in partial completiong of his thesis for distinction, 2022",
-              "chunks": { "start": 1, "end": 276 }
-            }
-          ]
-        },
+     
         {
           "path": "Unit_1_3_coord",
           "author": "Xenophon",
@@ -441,4 +439,4 @@
     }
     
   ]
-},
+}

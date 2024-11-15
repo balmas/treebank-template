@@ -1,4 +1,4 @@
-.treebankContainer {
+.alignmentContainer {
   margin-bottom: -62px;
   display: flex;
   flex-direction: column;
@@ -9,14 +9,25 @@
   width: 100vw;
 }
 
-.graph {
-  flex: 1;
+.text {
+  font-size: 1.2rem;
+
+  height: 100%;
+  margin-bottom: 0.2rem;
+
   display: flex;
+  gap: 0.2rem;
 }
 
 .text p {
+
   margin-bottom: 0.7rem;
   margin-top: 0.7rem;
+}
+
+.segment {
+  flex: 1 1 0;
+  width: 0;
 }
 
 .links {
